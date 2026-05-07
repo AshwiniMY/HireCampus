@@ -3,7 +3,7 @@
 A modern, responsive platform built with **Django** and **Tailwind CSS**. Designed to connect students and job seekers with employers efficiently.
 
 ### 🚀 Tech Stack
-**Django (Python)** • **Tailwind CSS** • **SQLite** • **Alpine.js**
+**Django (Python)**  • **SQLite** • **Javascript** • **Tailwind CSS**
 
 ---
 
@@ -25,7 +25,7 @@ If you are reviewing this project for a portfolio, skip the sign-up! Use these p
 2. **Setup Environment & Install:**
    ```bash
    python -m venv venv
-   # Windows: venv\Scripts\activate | Mac/Linux: source venv/bin/activate
+   # Windows: venv\Scripts\activate 
    pip install -r requirements.txt
    ```
 3. **Setup Database & Load Dummy Data:**
