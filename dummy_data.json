@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {"name": "Software Development", "icon": "fas fa-code"},
+    {"name": "Design", "icon": "fas fa-paint-brush"},
+    {"name": "Marketing", "icon": "fas fa-ad"},
+    {"name": "Data Science", "icon": "fas fa-database"},
+    {"name": "Human Resources", "icon": "fas fa-users"},
+    {"name": "Customer Support", "icon": "fas fa-headset"}
+  ],
+  "employers": [
+    {
+      "username": "wipro_hr",
+      "email": "hr@wipro.com",
+      "password": "pass1234",
+      "company_name": "Wipro",
+      "description": "A leading global information technology, consulting and business process services company.",
+      "location": "Bengaluru, Karnataka",
+      "industry": "IT Services"
+    },
+    {
+      "username": "zomato_careers",
+      "email": "careers@zomato.com",
+      "password": "pass1234",
+      "company_name": "Zomato",
+      "description": "Connecting people with great food.",
+      "location": "Gurugram, Haryana",
+      "industry": "FoodTech"
+    },
+    {
+      "username": "flipkart_recruitment",
+      "email": "recruitment@flipkart.com",
+      "password": "pass1234",
+      "company_name": "Flipkart",
+      "description": "India's leading e-commerce marketplace.",
+      "location": "Bengaluru, Karnataka",
+      "industry": "E-commerce"
+    }
+  ],
+  "job_seekers": [
+    {
+      "username": "rahul_sharma",
+      "email": "rahul@example.com",
+      "password": "pass1234",
+      "skills": "React, Node.js, MongoDB",
+      "experience": "4 years as Full Stack Developer",
+      "education": "B.Tech in Information Technology"
+    },
+    {
+      "username": "sneha_patel",
+      "email": "sneha@example.com",
+      "password": "pass1234",
+      "skills": "Data Analysis, Python, SQL, Tableau",
+      "experience": "2 years as Data Analyst",
+      "education": "B.Sc in Statistics"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Frontend Developer (React)",
+      "employer_username": "wipro_hr",
+      "category_name": "Software Development",
+      "description": "Looking for an experienced Frontend Developer with strong React.js skills to build responsive web applications.",
+      "requirements": "3+ years of experience with React.js, Redux, HTML5, CSS3. Understanding of RESTful APIs.",
+      "location": "Bengaluru, Karnataka",
+      "salary": "₹10,00,000 - ₹15,00,000",
+      "job_type": "full_time",
+      "experience_level": "mid"
+    },
+    {
+      "title": "Data Scientist",
+      "employer_username": "zomato_careers",
+      "category_name": "Data Science",
+      "description": "Join our data science team to build predictive models and analyze large datasets to improve delivery times.",
+      "requirements": "Experience with Machine Learning algorithms, Python, Pandas, Scikit-learn. SQL proficiency is a must.",
+      "location": "Gurugram, Haryana (Hybrid)",
+      "salary": "₹15,00,000 - ₹25,00,000",
+      "job_type": "full_time",
+      "experience_level": "senior"
+    },
+    {
+      "title": "Social Media Executive",
+      "employer_username": "zomato_careers",
+      "category_name": "Marketing",
+      "description": "Manage our social media presence across Twitter, Instagram, and Facebook with creative campaigns.",
+      "requirements": "Excellent copywriting skills, understanding of social media metrics, and a good sense of humor.",
+      "location": "Gurugram, Haryana",
+      "salary": "₹4,00,000 - ₹7,00,000",
+      "job_type": "full_time",
+      "experience_level": "entry"
+    },
+    {
+      "title": "Supply Chain Manager",
+      "employer_username": "flipkart_recruitment",
+      "category_name": "Customer Support",
+      "description": "Oversee end-to-end supply chain operations, optimizing logistics and delivery networks.",
+      "requirements": "MBA in Supply Chain or Logistics. 5+ years of experience in e-commerce logistics.",
+      "location": "Bengaluru, Karnataka",
+      "salary": "₹18,00,000 - ₹30,00,000",
+      "job_type": "full_time",
+      "experience_level": "senior"
+    },
+    {
+      "title": "UI/UX Intern",
+      "employer_username": "flipkart_recruitment",
+      "category_name": "Design",
+      "description": "Looking for an enthusiastic intern to assist our design team in creating wireframes and prototypes.",
+      "requirements": "Basic knowledge of Figma, understanding of user-centered design principles. Portfolio required.",
+      "location": "Remote",
+      "salary": "₹20,000/month",
+      "job_type": "internship",
+      "experience_level": "entry"
+    }
+  ]
+}
