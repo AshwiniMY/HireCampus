@@ -1,6 +1,8 @@
 # HireCampus
 A modern, responsive platform designed to connect students and job seekers with employers efficiently.
 
+**Live Demo:** [https://hirecampus.onrender.com](https://hirecampus.onrender.com)
+
 ## Setup
 ```bash
 git clone https://github.com/AshwiniMY/HireCampus.git
