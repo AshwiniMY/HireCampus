@@ -32,4 +32,4 @@ python manage.py runserver
 Django (Python), SQLite, JavaScript, Tailwind CSS
 
 ## Author
-Ashwini M Y — [LinkedIn](#) | [GitHub](https://github.com/AshwiniMY)
+Ashwini M Y — [LinkedIn](https://www.linkedin.com/in/ashwiniyaraguppi09/) | [GitHub](https://github.com/AshwiniMY)
